@@ -1,0 +1,10 @@
+#clock{
+    background-color: rgb(197, 151, 151);
+    padding: 20px;
+    border-radius: 10px;
+    color: #fff;
+    font-size: 20px;
+    margin-top: 30px;
+    transition: ease-out 0.5s;
+    transition-delay: 3s;
+}
